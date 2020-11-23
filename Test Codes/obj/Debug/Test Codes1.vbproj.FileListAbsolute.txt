@@ -1,0 +1,12 @@
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\bin\Debug\Test Codes.exe.config
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\bin\Debug\Test Codes.exe
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\bin\Debug\Test Codes.pdb
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\bin\Debug\Test Codes.xml
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes1.vbprojAssemblyReference.cache
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test_Codes.Form1.resources
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test_Codes.Resources.resources
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes1.vbproj.GenerateResource.cache
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes1.vbproj.CoreCompileInputs.cache
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes.exe
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes.xml
+C:\Users\Fierce\source\repos\ConsoleApp4\Test Codes\obj\Debug\Test Codes.pdb
